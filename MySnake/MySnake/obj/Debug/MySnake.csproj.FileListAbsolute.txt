@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\bin\Debug\MySnake.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\bin\Debug\MySnake.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\bin\Debug\MySnake.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\obj\Debug\MySnake.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\obj\Debug\MySnake.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\obj\Debug\MySnake.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\obj\Debug\MySnake.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\obj\Debug\MySnake.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\C#\Form\Game\MySnake\MySnake\obj\Debug\MySnake.pdb
